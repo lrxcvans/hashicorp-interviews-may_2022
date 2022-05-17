@@ -6,7 +6,7 @@ To install Terraform, simply visit [Terraform.io](https://www.terraform.io/downl
 
 With Terraform installed, let's dive right into it and start creating some infrastructure.
 
-Most devops engineers find it easiest to create a new directory on their local machine and create Terraform configuration code inside it.
+Most users find it easiest to create a new directory on their local machine and create Terraform configuration code inside it.
 
 ```shell
 $ mkdir terraform-demo
