@@ -197,6 +197,8 @@ tfuser@ubuntu-tfsvr:~/terraform-demo#
 ```
 The command will take up to a few minutes to run and will display a message indicating that the resource was created.
 
+If the output displays errors, visit [Terraform.io](visit [Terraform.io](https://www.terraform.io/downloads.html) the Terraform online documentation here to troubleshoot.
+
 Finally, destroy the infrastructure if no errors from the 'apply' command.
 
 ```shell
