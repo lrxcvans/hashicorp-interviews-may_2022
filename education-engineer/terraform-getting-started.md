@@ -1,6 +1,8 @@
 # Getting Started with Terraform
 
-Terraform is the most popular langauge for defining and provisioning infrastructure as code (IaC).
+Terraform is an open-source Infrastruture as Code (IaC) tool that enables organizations to automate the management and deployment of infrastructures and services. 
+
+This document will introduce a new user on the use of Terraform, to include running actual Terraform commands.
 
 ## Prequisites
 
