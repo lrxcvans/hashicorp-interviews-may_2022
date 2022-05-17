@@ -311,6 +311,12 @@ Destroy complete! Resources: 2 destroyed.
 tfuser@ubuntu-tfsvr:~/terraform-demo#
 ```
 
-Look for a message are the bottom of the output asking for confirmation. Type `yes` and hit ENTER. Terraform will destroy the resources it had created earlier.
+Look for a message at the bottom of the output asking for confirmation. Type `yes` and hit ENTER. Terraform will destroy the resources it had created earlier.
 
 ## Next Steps
+
+You should have gained a basic understanding of how Terraform's Infrastructure as Code (IaC) tool can automate the management and deployment of infrastructures and services. 
+
+To continue your journey with Terraform, we provide and extensive library of documentation on how Terraform can be used in a many types of environments. 
+
+Visit out online tutorials [here](https://learn.hashicorp.com/) to find topics specific to your environment. 
