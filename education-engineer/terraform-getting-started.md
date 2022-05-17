@@ -6,7 +6,9 @@ This document will introduce a new user on the use of Terraform, to include runn
 
 ## Prequisites
 
-To install Terraform, simply visit [Terraform.io](https://www.terraform.io/downloads.html) and download the compressed binary application executable file deliverable for your platform, machine or environment on which you like to run code and do development.
+Running the lab requires setting up a working environment to install and run Terraform commands.
+
+To install Terraform, visit [Terraform.io](https://www.terraform.io/downloads.html) and download the appropriate zip archive for your platform, machine or environment on which you run code and do development.
 
 ## Set up your Environment
 
