@@ -2,19 +2,23 @@
 
 Terraform is an open-source Infrastruture as Code (IaC) tool that enables organizations to automate the management and deployment of infrastructures and services. 
 
-This document will introduce a new user on the use of Terraform, to include running actual Terraform commands.
+This document will introduce a new user on the use of Terraform, to include running actual Terraform commands that will automate the deploymnt of resources.
 
 ## Prequisites
 
 Running the lab requires setting up a working environment to install and run Terraform commands.
 
-To install Terraform, visit [Terraform.io](https://www.terraform.io/downloads.html) and download the appropriate zip archive for your platform, machine or environment on which you run code and do development.
+To install Terraform, visit [Terraform.io](https://www.terraform.io/downloads.html) and download the appropriate zip archive for your system.
 
-## Set up your Environment
+The system where Terraformm will be installed requires internet access to download and run the Terraform commands.
 
-With Terraform installed, let's dive right into it and start creating some infrastructure.
+## Setting up your Terraform Environment
 
-Most users find it easiest to create a new directory on their local machine and create Terraform configuration code inside it.
+With Terraform installed, you can now start creating some infrastructure.
+
+To run Terraform create a new directory on your local machine and add Terraform configuration code inside it.
+
+Issue the commands below to create a terraform-demo directory on your system. The directory can be deleted after you complete the demo.
 
 ```shell
 $ mkdir terraform-demo
