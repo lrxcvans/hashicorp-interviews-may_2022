@@ -68,6 +68,8 @@ $ terraform init
 A successful output from the 'terraform init' command is shown below.
 
 ```hcl
+tfuser@ubuntu-tfsvr:~/terraform-demo# terraform init
+
 Initializing the backend...
 
 Initializing provider plugins...
@@ -93,6 +95,7 @@ should now work.
 If you ever set or change modules or backend configuration for Terraform,
 rerun this command to reinitialize your working directory. If you forget, other
 commands will detect it and remind you to do so if necessary.
+tfuser@ubuntu-tfsvr:~/terraform-demo#
 ```
 
 You shoud check for any errors. If it ran successfully, provision the resource with the `apply` command.
