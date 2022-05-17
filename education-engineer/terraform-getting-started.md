@@ -59,7 +59,7 @@ resource "docker_image" "nginx" {
 
 ## Running Terraform
 
-Initialize Terraform with the `init` command. The AWS provider will be installed. 
+Initialize Terraform with the `init` command. The 'docker' provider will be installed. 
 
 ```shell
 $ terraform init
