@@ -317,6 +317,6 @@ Look for a message at the bottom of the output asking for confirmation. Type `ye
 
 You should have gained a basic understanding of how Terraform's Infrastructure as Code (IaC) tool can automate the management and deployment of infrastructures and services. 
 
-To continue your journey with Terraform, we provide and extensive library of documentation on how Terraform can be used in a many types of environments. 
+To continue your journey with Terraform, we provide an extensive library of documentation showing how Terraform can be used in many types of environments. 
 
-Visit out online tutorials [here](https://learn.hashicorp.com/) to find topics specific to your environment. 
+Visit our online tutorials [here](https://learn.hashicorp.com/) to find topics specific to your environment. 
