@@ -2,7 +2,11 @@
 
 Terraform is the most popular langauge for defining and provisioning infrastructure as code (IaC).
 
+## Prequisites
+
 To install Terraform, simply visit [Terraform.io](https://www.terraform.io/downloads.html) and download the compressed binary application executable file deliverable for your platform, machine or environment on which you like to run code and do development.
+
+### Set up your Environment
 
 With Terraform installed, let's dive right into it and start creating some infrastructure.
 
@@ -45,6 +49,8 @@ resource "docker_image" "nginx" {
 }
 ```
 
+#### Running Terraform
+
 Initialize Terraform with the `init` command. The AWS provider will be installed. 
 
 ```shell
@@ -66,3 +72,5 @@ $ terraform destroy
 ```
 
 Look for a message are the bottom of the output asking for confirmation. Type `yes` and hit ENTER. Terraform will destroy the resources it had created earlier.
+
+##### Next Steps
