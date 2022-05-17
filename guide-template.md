@@ -1,4 +1,4 @@
-# Guide Title
+# Getting Started with Terraform
 
 Introduction goes here... (e.g. what you'll learn in this guide)
 
