@@ -319,4 +319,4 @@ You should have gained a basic understanding of how Terraform's Infrastructure a
 
 To continue your journey with Terraform, we provide an extensive library of documentation showing how Terraform can be used in many types of environments. 
 
-Visit our online tutorials [here](https://learn.hashicorp.com/) to find topics specific to your environment. 
+Visit our online tutorials [here](https://learn.hashicorp.com/) to find topics specific to your environment.
